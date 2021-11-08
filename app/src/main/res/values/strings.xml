@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppListViewAndRecyclerView</string>
+    <string name="banner_image">banner_image</string>
 </resources>
